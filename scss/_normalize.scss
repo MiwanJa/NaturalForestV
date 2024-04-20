@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --dark-color: #000;
+    --light-color: #fff;
+
+    --index: calc(1vw + 1vh);
+    --transition: 1.7s cubic-bezier(0.090, 0.465, 0, 1);
+}
